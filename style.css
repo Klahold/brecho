@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(206, 206, 206);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+#navbar{
+    padding: 5px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.renner{
+    padding: 10px;
+    width: 200px;
+}
+
+.carrinho{
+    width: 40px;
+}
+
+.lupinha{
+    margin: 20px;
+    display: flex;
+    height: 50px;
+    width: 50px;
+}
+
+
+#searchbar {
+    display: flex;
+    text-align: center;
+    width: 1000px;
+    margin: 20px;
+    border: solid;
+    border-color: rgb(124, 124, 124);
+    background-color: rgb(167, 167, 167);
+}
