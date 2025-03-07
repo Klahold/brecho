@@ -12,6 +12,23 @@ body{
     justify-content: center;
 }
 
+.carousel{
+    display: flex;
+    overflow: hidden;
+    width: 300px;
+}
+
+.carousel img {
+    width: 100%;
+    transition: transform 0.5s ease-in-out;
+}
+
+.categoria{
+    padding: 5px;
+    justify-content: center;
+    text-align: center;
+}
+
 .renner{
     padding: 10px;
     width: 200px;
@@ -28,6 +45,14 @@ body{
     width: 50px;
 }
 
+h3{
+    background-color: rgb(218, 218, 218);
+}
+
+h2{
+    padding: 10px;
+    background-color: rgb(201, 201, 201);
+}
 
 #searchbar {
     display: flex;
@@ -40,9 +65,17 @@ body{
 }
 
 .roupas {
+    background-color: rgb(231, 231, 231);
+    text-align: center;
+    margin: 30px;
     border: solid;
-    border-color:  rgb(124, 124, 124);
+    border-color:  rgb(180, 180, 180);
     
+}
+
+section{
+    margin: 20px;
+    background-color: white;
 }
 
 .flex {
