@@ -38,3 +38,12 @@ body{
     border-color: rgb(124, 124, 124);
     background-color: rgb(167, 167, 167);
 }
+
+.roupas {
+    border: solid;
+    border-color:  rgb(124, 124, 124);
+}
+
+.flex {
+    display: flex;
+}
