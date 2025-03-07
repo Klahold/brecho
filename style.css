@@ -86,3 +86,15 @@ section{
     height: 400px;
     width: 400px;
 }
+
+#contato{
+    
+    text-align: center;
+}
+
+footer{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px;
+}
