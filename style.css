@@ -48,3 +48,8 @@ body{
 .flex {
     display: flex;
 }
+
+.tamanho{
+    height: 400px;
+    width: 400px;
+}
